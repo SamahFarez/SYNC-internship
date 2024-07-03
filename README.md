@@ -39,4 +39,4 @@ To explore each task and its implementation:
 
 ## License
 
-This repository is licensed under the [MIT License](link-to-license).
+This repository is licensed under the [MIT License](MIT-License).
