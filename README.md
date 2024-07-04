@@ -10,8 +10,8 @@ The internship consisted of four main tasks, each focusing on practical applicat
 - **Objective:** Create an interactive chatbot using natural language processing techniques.
 - **Description:** The chatbot was designed to engage users in natural conversation, providing responses based on predefined intents and user input.
 
-### Task 2: Real-time Face Mask Detection
-- **Objective:** Develop a real-time system to detect whether individuals are wearing face masks.
+### Task 2: Face Mask Detection
+- **Objective:** Develop a system to detect whether individuals are wearing face masks.
 - **Description:** This task involved training a deep learning model to identify faces and classify them based on the presence or absence of a face mask, contributing to public health and safety measures.
 
 ### Task 3: Boston House Price Predictions
